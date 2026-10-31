@@ -2,7 +2,7 @@
 
 # 🤖 Mukhtiar Ahmed | Applied AI Engineer
 
-Applied AI Engineer specialized in building autonomous agents and AI saas, evaluating model quality, and scaling production ai systems and apps using clean modern infrastructure with best LLMOPS practices and pipelines. Experienced in designing frontends using React to build full-stack interfaces for intelligent systems.
+**Applied AI Engineer** specialized in building **autonomous agents** and **AI SaaS**, evaluating model quality, and scaling **production AI systems** and apps using clean modern infrastructure with best **LLMOps practices** and pipelines. Experienced in designing frontends using **React** to build full-stack interfaces for **intelligent systems**.
 
 ---
 
@@ -12,8 +12,8 @@ Applied AI Engineer specialized in building autonomous agents and AI saas, evalu
 | :--- | :--- |
 | **🤖 AI & LLMs** | `Python` 🐍 • `LangChain` 🔗 • `Anthropic Claude` 🧠 • `Scikit-Learn` 📊 |
 | **📊 LLMOps & Monitoring** | `Langfuse` 🔍 • `Prometheus` 📈 • `Grafana` 📉 |
-| **⚡ Backend & DBs** | `FastAPI` ⚡ • `Supabase` ⚡ • `Google Cloud (GCP)` ☁️ • `Docker` 🐳 |
+| **⚡ Backend & Databases** | `FastAPI` ⚡ • `Supabase` ⚡ |
+| **📈 DevOps & Deploy** | `Docker` 🐳 • `Google Cloud (GCP)` ☁️ • `GitHub Actions` ⚙️ • `Git` 💻 • `Vercel` ▲ • `Railway` 🚀 • `Stripe` 💳 |
 | **🎨 Frontend & Basics** | `React.js` ⚛️ • `JavaScript` 💛 • `HTML5` 🧡 • `CSS3` 💙 |
-| **📈 DevOps & Deploy** | `Git` 💻 • `GitHub Actions` ⚙️ • `Vercel` ▲ • `Railway` 🚀 • `Stripe` 💳 |
 
 </div>
