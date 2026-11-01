@@ -13,7 +13,7 @@
 | **🤖 AI & LLMs** | `Python` 🐍 • `LangChain` 🔗 • `Anthropic Claude` 🧠 • `Scikit-Learn` 📊 |
 | **🛡️ AI Security & Guardrails** | `promptfoo` 🎯 • `LiteLLM (Proxy/Gateway)` 🛡️ |
 | **📊 LLMOps & Monitoring** | `Langfuse` 🔍 • `LiteLLM` 🚄 •  `Prometheus` 📈 • `Grafana` 📉 | 
-| **⚡ Backend & Databases** | `FastAPI` ⚡ • `Supabase` 🌩️ |
+| **⚡ Backend & Databases** | `FastAPI` ⚡ • `PostgreSQL (pgvector as Vector Database)` 🐘 • `Redis` 🔴 • `Supabase` 🌩️ |
 | **📈 DevOps & Deploy** | `Docker` 🐳 • `Google Cloud (GCP)` ☁️ • `GitHub Actions` ⚙️ • `Git` 💻 • `Vercel` ▲ • `Railway` 🚀|
 | **🎨 Frontend & Basics** | `React.js` ⚛️ • `JavaScript` 💛 • `HTML5` 🧡 • `CSS3` 💙 |
 
