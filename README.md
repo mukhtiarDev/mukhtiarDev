@@ -11,6 +11,7 @@
 | Category | Tools, Frameworks & Libraries |
 | :--- | :--- |
 | **🤖 AI & LLMs** | `Python` 🐍 • `LangChain` 🔗 • `Anthropic Claude` 🧠 • `Scikit-Learn` 📊 |
+| **🛡️ AI Security & Guardrails** | `promptfoo` 🎯 • `LiteLLM (Proxy/Gateway)` 🛡️ |
 | **📊 LLMOps & Monitoring** | `Langfuse` 🔍 • `LiteLLM` 🚄 •  `Prometheus` 📈 • `Grafana` 📉 | 
 | **⚡ Backend & Databases** | `FastAPI` ⚡ • `Supabase` 🌩️ |
 | **📈 DevOps & Deploy** | `Docker` 🐳 • `Google Cloud (GCP)` ☁️ • `GitHub Actions` ⚙️ • `Git` 💻 • `Vercel` ▲ • `Railway` 🚀|
